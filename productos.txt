@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Mermelada de Ciruela",
+		"price": 610,
+		"id": 1
+	},
+	{
+		"title": "Mermelada de Durazno",
+		"price": 610,
+		"id": 2
+	},
+	{
+		"title": "Mermelada de Damasco",
+		"price": 610,
+		"id": 3
+	},
+	{
+		"title": "Mermelada de Membrillo",
+		"price": 610,
+		"id": 4
+	},
+	{
+		"title": "Mermelada de Tomate",
+		"price": 720,
+		"id": 5
+	},
+	{
+		"title": "Mermelada de Higo",
+		"price": 850,
+		"id": 6
+	},
+	{
+		"title": "Mermelada de Alcayota",
+		"price": 720,
+		"id": 7
+	},
+	{
+		"title": "Mermelada de Cereza",
+		"price": 720,
+		"id": 8
+	}
+]
